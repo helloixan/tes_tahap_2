@@ -1,0 +1,14 @@
+{
+    "Orders": [
+        {
+            "id": 1,
+            "customer_name": "Iksan Oktav Risandy",
+            "product_name": "Samsung A80",
+            "quantity": "2",
+            "total_price": "8.000.000",
+            "order_date": "",
+            "shipping_address": "Bojongsoang, Bandung, Jawa Barat",
+            "status": "pending"
+        }
+    ]
+}
